@@ -22,3 +22,9 @@ cmake ..
 make
 ```
 
+# Homework Solutions added:
+
+- Homework 1: Basic gray scale converting of the image
+- Homework 2: Blurring an image. Implemented with shared memory use. Special cares are taken for boundary pixels. 
+
+
